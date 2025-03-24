@@ -1,0 +1,34 @@
+body.exercicio {
+    grid-template-rows: 120px 60px 1fr 60px;
+    grid-template-areas: "cabecalho" "navegacao" "conteudo" "rodape";
+}
+
+.conteudo {
+    height: calc(100vh - 240px);
+}
+
+.navegacao {
+    grid-area: navegacao;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #555;
+}
+
+.navegacao > a {
+    font-weight: 300;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+    background-color: deepskyblue;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.navegacao > a.verde {
+    background-color: mediumseagreen;
+}
+
+.navegacao > a.vermelho {
+    background-color: red;
+}

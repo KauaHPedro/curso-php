@@ -19,7 +19,7 @@
                <div class="modulo">
                    <h3>Módulo 01 - Básico</h3>
                    <ul>
-                       <li><a href="#">Exercício A</a></li>
+                       <li><a href="exercicio.php">Exercício A</a></li>
                        <li><a href="#">Exercício B</a></li>
                        <li><a href="#">Exercício C</a></li>
                    </ul>
