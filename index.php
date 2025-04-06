@@ -25,6 +25,25 @@
                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio Seção 1</a></li>
                    </ul>
                </div>
+
+               <div class="modulo azul-escuro">
+                   <h3>Módulo 02 - Tipos</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=tipos&file=tipos">Tipos de Dados</a></li>
+                       <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
+                   </ul>
+               </div>
+
+               <div class="modulo vermelho">
+                   <h3>Módulo 03 - Variáveis</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=variaveis&file=basico">Desafio Equação</a></li>
+                       <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+                       <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
+                       <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
+                   </ul>
+               </div>
+
            </nav>
         </div>
     </main>
