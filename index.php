@@ -44,6 +44,24 @@
                    </ul>
                </div>
 
+               <div class="modulo laranja">
+                   <h3>Módulo 04 - Controle</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=controle&file=if-else">If e Else</a></li>
+                       <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
+                       <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Operadores Lógicos</a></li>
+                   </ul>
+               </div>
+
+               <div class="modulo roxo">
+                   <h3>Módulo 05 - Arrays</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=arrays&file=basico">Básico sobre Arrays</a></li>
+                       <li><a href="exercicio.php?dir=arrays&file=desafio_sorteio">Desafio Sorteio</a></li>
+                       <li><a href="exercicio.php?dir=arrays&file=multidimensionais">Multidimensionais</a></li>
+                   </ul>
+               </div>
+
            </nav>
         </div>
     </main>
