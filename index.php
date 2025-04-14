@@ -62,6 +62,14 @@
                    </ul>
                </div>
 
+               <div class="modulo vermelho-escuro">
+                   <h3>Módulo 06 - Estrutura de Repetição</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=repeticoes&file=for">Básico sobre For</a></li>
+                       <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela</a></li>
+                   </ul>
+               </div>
+
            </nav>
         </div>
     </main>
