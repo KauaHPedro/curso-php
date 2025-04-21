@@ -70,6 +70,16 @@
                    </ul>
                </div>
 
+               <div class="modulo verde-escuro">
+                   <h3>Módulo 07 - Funções</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=funcoes&file=escopo">Escopo</a></li>
+                       <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Palindromos</a></li>
+                       <li><a href="exercicio.php?dir=funcoes&file=recursividade">Desafio Impressão Array</a></li>
+                       <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map e Filter</a></li>
+                   </ul>
+               </div>
+
            </nav>
         </div>
     </main>
