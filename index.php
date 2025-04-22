@@ -80,6 +80,16 @@
                    </ul>
                </div>
 
+               <div class="modulo roxo-escuro">
+                   <h3>Módulo 08 - Orientação a Objetos</h3>
+                   <ul>
+                       <li><a href="exercicio.php?dir=poo&file=classe">Classe</a></li>
+                       <li><a href="exercicio.php?dir=poo&file=Data">Data</a></li>
+                       <li><a href="exercicio.php?dir=poo&file=teste_pilares">Testando Pilares da POO em PHP</a></li>
+                       <li><a href="exercicio.php?dir=poo&file=desafio_erros">Desafio Erros</a></li>
+                   </ul>
+               </div>
+
            </nav>
         </div>
     </main>
