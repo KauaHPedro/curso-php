@@ -80,5 +80,12 @@
             </ul>
         </div>
 
+         <div class="modulo azul-escuro">
+             <h3>Módulo 10 - Namespaces</h3>
+             <ul>
+                 <li><a href="exercicio.php?dir=namespaces&file=exemploNamespace">Exemplo Básico</a></li>
+             </ul>
+         </div>
+
     </nav>
 
