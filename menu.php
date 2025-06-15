@@ -87,5 +87,13 @@
              </ul>
          </div>
 
+         <div class="modulo vermelho-escuro">
+             <h3>Módulo 11 - Tratamento de Erro</h3>
+             <ul>
+                 <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try_Catch</a></li>
+                 <li><a href="exercicio.php?dir=tratamento_erro&file=exercicio">Exercício</a></li>
+             </ul>
+         </div>
+
     </nav>
 
